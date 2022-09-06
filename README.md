@@ -58,3 +58,12 @@ As we dive deeper to viewing the number of bike trips taken daily per hour by ge
 
 Now we created a heat map to view which user types, customer or subscriber, show an increase usage during the week between the gender groups. Analyzing the map, we can conclude that males are the group who are primarily subscribers and record the highest number of rides for all seven days of the week. Females who are subscribers tend to utilize the Citi Bikes more Thursday through Saturday. 
 
+## Summary
+
+In the city that never sleeps and where life is fast-paced from morning to night, Citi Bikes have proven to be a popular and reliable commuting program for its users. Where traffic can get high due by the car, bus, or even train system, having the option of a bike system has shown that individuals are willing to sign up annually to participate in the bike sharing program as an alternate mode of transportation. 
+
+Through the visualization of different charts and maps with our data, males were the highest participating group in the bike sharing program, with their participation being heavily present in the morning and evening times coinciding the workday commutes. It would be interesting to see how to increase female participation in the program at some point. However, the data overall concludes that the bike sharing program has proven to be successful.
+
+Taking this analysis a step further, there are two suggested visualizations that can be explored at a later time. One would be a visualization comparing birth year and user type, understanding which individuals by age group are the ones most likely to subscribe to be customers of a daily or 3-day pass versus annual members of the bike sharing program. Maybe there is one group to focus on more to increase the bike sharing program exposure to or understand how to attract the attention of other age ranges depending on their birth year. 
+
+It is also worth exploring the start and end locations of the stations to determine which ones are most popular for participants to understand the bike utilization of that area and if it is worth increasing the Citi Bikes available to see if there is an uptick in consumer usage with more bike available. 
