@@ -42,19 +42,19 @@ As we understand the sub groups who participate in the program, we move on to un
 
 Now breaking down the length of checked out bikes by gender, males are shown to check out bikes more and heavily represent the group that checks out bikes no more than roughly 5-10 minute timeframe. 
 
-!(weekday bike trips)[images/bike_trips_weekday.png]
+![weekday bike trips](images/bike_trips_weekday.png)
 
 Shifting to the heat map, this depicts the number of bike trips taken each weekday measured by every hour of the day. We are able to see that on the days of Monday, Tuesday, Thursday, and Friday, the bike sharing program sees the highest amount of bike trips taken between 5pm to 7pm. Which roughly correlates to the time that people are leaving their workplaces for the day and commuting back. Both Saturday and Sundays show a high amount of bike usage from around 10am to 7pm. Even on the weekends individuals are taking an active use in Citi Bikes. 
 
-!(bar chart)[images/august_peak_hours.png]
+![bar_chart](images/august_peak_hours.png)
 
 This bar chart delineates in a different way the popularity of Citi Bikes for the total number of trips to be between 5 pm to 7 pm, while the least operational times are from 2am to 5am. In this timeframe in the morning, while bike utilization is at its lowest, the bike sharing company should take advantage to repair any needed bikes in time before the day begins. It is inevitable that bikes will need repairs and maintenance, and doing these repairs in a time slot that does not see much user activity is key to make sure that all bikes can be available to be used during the day. 
 
-!(weekly bike trips by gender)[images/biketrips_weekday_gender.png]
+![weekly bike trips by gender](images/biketrips_weekday_gender.png)
 
 As we dive deeper to viewing the number of bike trips taken daily per hour by gender, we recognize that while males participate more in the program, they tend to utilize the Citi Bikes more during 6am to 9am and 5pm to 7pm. This correlates to the notion that these are the timeframe that oversees the highest commuting intervals. For females, we can see that they are used the most around the 6am-9am and 5pm to 7pm timeframes as well; however, not as much as the males.
 
-!(usertype heat map)[iamges/rides_usertype_gender.png]
+![usertype heat map](images/rides_usertype_gender.png)
 
 Now we created a heat map to view which user types, customer or subscriber, show an increase usage during the week between the gender groups. Analyzing the map, we can conclude that males are the group who are primarily subscribers and record the highest number of rides for all seven days of the week. Females who are subscribers tend to utilize the Citi Bikes more Thursday through Saturday. 
 
