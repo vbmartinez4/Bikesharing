@@ -25,3 +25,8 @@ Keeping in mind that Des Moines and New York City are two different makeups of c
 ![map](images/start_point_map.png)
 
 Understanding when and where people use Citi Bike will help to determine where to best pilot the program in Des Moines. The above symbol map depicts the most popular locations in the city for starting a bike journey. The larger and darker shade of green on the map signifies the most popular stations that bike riders are more inclined to start at. Viewing the location of popularity, we can tell it is in the central hub of the city. 
+
+![pie chart](images/gender_breakdown.png)
+
+While we know that the data compromises of 2,344, 224 total number of trips, we want to see a breakdown by gender of who and how many are taking the trips in the program. We can see that about 1 million more males participate in the program more than females, with a small portion of the users are categorized as ‘unknown’. 
+
