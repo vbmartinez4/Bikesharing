@@ -30,3 +30,10 @@ Understanding when and where people use Citi Bike will help to determine where t
 
 While we know that the data compromises of 2,344, 224 total number of trips, we want to see a breakdown by gender of who and how many are taking the trips in the program. We can see that about 1 million more males participate in the program more than females, with a small portion of the users are categorized as ‘unknown’. 
 
+![users](images/usertype_breakdown.png)
+
+As we break down the data further, we want to further view how the user type of Citi Bike is organized. Through the pie chart, we can see that annual subscribers far outpace the customer group (these individuals who only hold a 24-hour pass or a 3-day pass user). Preference wise, users are more inclined to hold an annual pass for the use of the bike rather than purchase the program type for a few day time frame, expressing a desire of a longer term commitment with the program rather than having a a few days access.
+
+![checkout times](images/checkout_times_users.png)
+
+As we understand the sub groups who participate in the program, we move on to understanding the length of times that bikes are checked out. Viewing the line chart, we see that having the bike checked out for not even an hour is a popular choice, roughly 146k of rides have bikes checked out for about 5 minutes. Showing that in the city with shorter distances, the most favorite way to get across is by bike. 
