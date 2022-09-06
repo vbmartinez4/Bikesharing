@@ -14,7 +14,7 @@ The data used for this analysis derives from information collected from August 2
 - Citi Bike System August 2019 Data
 
 ## Tableau Story:
-[link to dashboard](https://public.tableau.com/shared/KSW3SJ6JD?:display_count=n&:origin=viz_share_link)
+Bikesharing Analysis to view on Tableau ([Link to dashboard](https://public.tableau.com/shared/KSW3SJ6JD?:display_count=n&:origin=viz_share_link))
 
 ## Objectives: 
 - Import data into Tableau.
