@@ -1,4 +1,4 @@
-# Bikesharing
+# Exploring a Citi Bike Program in Des Moines
 
 ## Overview
 Utilizing results from New York City’s Citi bike sharing program data from 2019, we are investigating whether the similar concept of a bike company would be feasible to implement in the city of Des Moines, Iowa. While both cities are distinct in terms of geographical locations and features, comparing the participation of the bike sharing program can assist in proving if a company to establish a similar program could be equally as fruitful in Iowa. There are already angel investors inquiring about the business proposition and are intrigued to see an analysis of the results. 
